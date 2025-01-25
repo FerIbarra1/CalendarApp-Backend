@@ -1,4 +1,4 @@
-# Backend MERN - Calendar
+# CalendarApp - Backend
 
 ## Development
 
